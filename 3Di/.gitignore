@@ -1,0 +1,6 @@
+/BIN
+/*/*
+!/*/*.mdu
+!/*/boundaries
+!/*/polygons
+!/*/gui
